@@ -1,6 +1,6 @@
 # Your code goes here:
-def render_person(a,d,e,b,c):
-    return (f"{a} is a {b} year old {c} born in {d} with {e} eyes")
+def render_person(param):
+    return param
 
 
 # Do not edit below this line
